@@ -21,7 +21,7 @@ Below is a side by side comparison of landing pages of the old website to the ne
 
 | Old WARNS Website | New WARNS Website |
 |------------------|------------------|
-| ![Old WARNS Website](https://raw.githubusercontent.com/jackgraddon/lprc-warns/main/.projectDetails/readmeImages/OldLWARNS.png) | ![New WARNS Website](https://raw.githubusercontent.com/jackgraddon/lprc-warns/main/.projectDetails/readmeImages/NewWARNS.jpeg) |
+| ![Old WARNS Website](https://raw.githubusercontent.com/jackgraddon/lprc-warns/main/.projectDetails/readmeImages/OldWARNS.png) | ![New WARNS Website](https://raw.githubusercontent.com/jackgraddon/lprc-warns/main/.projectDetails/readmeImages/NewWARNS.jpeg) |
 
 ## Live Site
 
